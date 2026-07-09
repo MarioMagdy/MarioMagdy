@@ -12,7 +12,7 @@
 I build **production LLM systems** and the **Python backends** they run on —
 grounded, observable, and tested.
 
-## 📫 Hire me
+## 📫 Connect
 
 💼 [Upwork](https://www.upwork.com/freelancers/mariomagdy) (Top Rated · 100% JSS · 1,750+ hrs) ·
 🔗 [LinkedIn](https://www.linkedin.com/in/mario-magdy-ai-engineer/) ·
