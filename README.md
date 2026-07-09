@@ -10,66 +10,35 @@
 ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 I build **production LLM systems** and the **Python backends** they run on —
-grounded, observable, and tested. If it can't be inspected and re-run, it
-isn't production.
+grounded, observable, and tested.
 
 ## 📫 Hire me
 
-- 💼 **Upwork** (Top Rated · 100% JSS · 1,750+ hrs): https://www.upwork.com/freelancers/mariomagdy
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/mario-magdy-ai-engineer/
-- ✉️ **Email:** marwo333@gmail.com
-
-Available for contract work on RAG, agentic workflows, Document AI, and
-Python backends for AI products.
+💼 [Upwork](https://www.upwork.com/freelancers/mariomagdy) (Top Rated · 100% JSS · 1,750+ hrs) ·
+🔗 [LinkedIn](https://www.linkedin.com/in/mario-magdy-ai-engineer/) ·
+✉️ marwo333@gmail.com
 
 ## 🛠️ What I do
 
-- 🤖 **AI & LLM systems** — retrieval-augmented generation, multi-tool agents,
-  prompt engineering, LLM evaluation & regression testing, hallucination
-  guards, multi-model routing.
-- 📄 **Document AI** — OCR, structured entity extraction, validation and
-  enrichment pipelines, browser automation for data that lives behind logins.
-- ⚙️ **Python backends** — FastAPI, PostgreSQL, async SQLAlchemy, JWT auth &
-  role-based access control, WebSockets/SSE, Docker, CI with pytest.
-- 🕸️ **Data pipelines** — multi-source scraping, cross-source deduplication,
-  data-quality harnesses, CRM and Sheets/Drive integrations.
+- 🤖 **AI & LLM systems** — RAG, multi-tool agents, LLM evaluation & regression testing
+- 📄 **Document AI** — OCR, structured extraction, browser automation behind logins
+- ⚙️ **Python backends** — FastAPI, PostgreSQL, async SQLAlchemy, JWT/RBAC, Docker, pytest CI
+- 🕸️ **Data pipelines** — multi-source scraping, deduplication, data-quality harnesses
 
-## 💼 Client work
-
-Most of my recent work is **private and under NDA** — production AI
-assistants, LLM evaluation harnesses, document-automation pipelines, and
-data workflows for US startups. I can't show the code, but the patterns are
-what you'd expect from the list above: grounded retrieval, deterministic
-outputs where it matters, and regression tests on LLM behavior.
+Most of my recent work is **private client work under NDA** — production AI
+assistants, document automation, and data workflows for US startups.
 
 ## 🚀 Featured public work
 
-- 🏠 [`Egyptian-Real-Estate-Data-Pipeline`](https://github.com/MarioMagdy/Egyptian-Real-Estate-Data-Pipeline)
-  — multi-source real-estate data pipeline: FastAPI, cross-source
-  deduplication, a ground-truth "faithfulness harness" for extraction
-  correctness, SSE live progress, full pytest suite.
-- 🔁 [`proxies_service`](https://github.com/MarioMagdy/proxies_service) — 24/7
-  proxy-rotation service: documented lifecycle + query model, deduplicating
-  fetch pipeline, canonical SQL schema, CI.
-- 🛰️ [`Mars-landing-algorithms`](https://github.com/MarioMagdy/Mars-landing-algorithms)
-  — guidance, navigation & control algorithms from my Mars-landing
-  graduation project (graded A+): closed-loop simulations and an ML/RL
-  vehicle controller.
-- 📚 [`book_scanning`](https://github.com/MarioMagdy/book_scanning) — document
-  ingestion/OCR pipeline for scanned books and PDFs.
-- 🧩 [`prompt_manager`](https://github.com/MarioMagdy/prompt_manager) — prompt
-  management utilities for LLM applications and safer iteration.
-- 🧭 [`Skill-Navigator`](https://github.com/MarioMagdy/Skill-Navigator) —
-  skill-path navigation tool for mapping goals to learning steps.
+- 🏠 [`Egyptian-Real-Estate-Data-Pipeline`](https://github.com/MarioMagdy/Egyptian-Real-Estate-Data-Pipeline) — 5-source pipeline with FastAPI, cross-source dedup, and a ground-truth extraction harness
+- 🔁 [`proxies_service`](https://github.com/MarioMagdy/proxies_service) — 24/7 proxy-rotation service with a documented lifecycle, SQL schema, and CI
+- 🛰️ [`Mars-landing-algorithms`](https://github.com/MarioMagdy/Mars-landing-algorithms) — GNC algorithms from my Mars-landing graduation project (graded A+)
+- 📚 [`book_scanning`](https://github.com/MarioMagdy/book_scanning) — OCR pipeline for scanned books and PDFs
+- 🧩 [`prompt_manager`](https://github.com/MarioMagdy/prompt_manager) — prompt management utilities for LLM apps
 
 ## 🔭 Beyond code
 
-BSc in **Navigation Science and Space Technology**. Founded **DeepScope**, a
-space-tech startup building AI-powered smart telescopes — 🥇 1st place at the
-**Egyptian Space Summit 2022** as best technical space startup.
+BSc in Navigation Science & Space Technology · Founded **DeepScope**
+(AI-powered smart telescopes) · 🥇 1st place, **Egyptian Space Summit 2022**
 
-## 📝 About the contribution heatmap
-
-Most of my 2025–2026 commits land in private client repositories, so the
-green squares show activity but not contents. The public repos here are
-non-client work I can share openly.
+*The green squares are mostly private client repos — public repos here are what I can share openly.*
